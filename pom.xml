@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.kuba.clprsrv.sbt</groupId>
+    <artifactId>client-product-service</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <!-- Поключение Spring проекту -->
+        <dependency>
+            <groupId>org.kuali.maven.plugins</groupId>
+            <artifactId>spring-maven-plugin</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!-- Коннектор для БД MySQL -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.16</version>
+        </dependency>
+    </dependencies>
+
+</project>
