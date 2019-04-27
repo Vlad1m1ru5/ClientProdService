@@ -1,8 +1,7 @@
 package org.kuba.clprsrv.sbt;
 
 /**
- *  Абстрактный класс для записи информации
- *  в кортеже базы данных.
+ *  Абстрактный класс записи кортежа в таблице БД.
  *
  */
 public abstract class Record {
@@ -39,4 +38,5 @@ public abstract class Record {
     public String getName () {
         return name;
     }
+
 }
