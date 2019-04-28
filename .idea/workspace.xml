@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deccba74-f646-4aa0-8f9a-7c5a90559b8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/ClientRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/ClientRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/ProductRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/ProductRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/Record.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/WebApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="deccba74-f646-4aa0-8f9a-7c5a90559b8e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/WebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="304">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,20 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/Record.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -306,6 +291,81 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kuba" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kuba" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="clprsrv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kuba" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="clprsrv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sbt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-status" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-status" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-compiler-plugin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-status" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-compiler-plugin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="compile" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="clientproductservice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="clientproductservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-status" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="maven-compiler-plugin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="compile" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="default-compile" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -388,12 +448,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556346432631</updated>
       <workItem from="1556346437034" duration="16902000" />
-      <workItem from="1556431949946" duration="3276000" />
+      <workItem from="1556431949946" duration="3722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20178000" />
+    <option name="totallyTimeSpent" value="20624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -406,7 +466,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -417,24 +476,24 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49959514" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.502834" side_tool="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5020243" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.49716598" weight="0.32867134" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49959514" weight="0.32867134" />
       <window_info anchor="bottom" id="Spring" order="6" sideWeight="0.49959514" weight="0.32867134" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4979757" weight="0.3159664" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4979757" visible="true" weight="0.3146853" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49959514" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.4979757" weight="0.32867134" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" weight="0.32955465" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.31772053" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.31740892" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
@@ -452,20 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/Record.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/ClientRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -473,10 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beans.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/Record.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -487,13 +532,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/kuba/clprsrv/sbt/WebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
