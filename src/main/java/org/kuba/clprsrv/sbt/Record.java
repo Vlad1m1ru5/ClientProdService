@@ -10,6 +10,13 @@ public abstract class Record {
     private String name;
 
     /*
+        constructors
+     */
+    public Record () {
+
+    }
+
+    /*
         setters
      */
     public void setId (int id) {

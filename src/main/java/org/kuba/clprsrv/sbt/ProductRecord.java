@@ -9,6 +9,21 @@ public class ProductRecord extends Record{
     private int demand;
 
     /*
+        constructors
+     */
+    public ProductRecord () {
+
+    }
+
+    public ProductRecord (int id, String uid, String name, String boundClientUid, int demand) {
+        this.setId(id);
+        this.setUid(uid);
+        this.setName(name);
+        this.setBoundClientUid(boundClientUid);
+        this.setDemand(demand);
+    }
+
+    /*
         setters
      */
     public void setBoundClientUid (String clientUid) {
@@ -17,14 +32,6 @@ public class ProductRecord extends Record{
 
     public void setDemand (int demand) {
         this.demand = demand;
-    }
-
-    public void setProduct (int id, String uid, String name, String boundClientUid, int demand) {
-        this.setId(id);
-        this.setUid(uid);
-        this.setName(name);
-        this.setBoundClientUid(boundClientUid);
-        this.setDemand(demand);
     }
 
     /*
@@ -38,18 +45,20 @@ public class ProductRecord extends Record{
         return demand;
     }
 
-    public String getProduct () {
+    @Override
+    public String toString () {
         int id = this.getId();
         String uid = this.getUid();
         String name = this.getName();
         String boundClientUid = this.getBoundClientUid();
         int demand = this.getDemand();
 
-        return "id=" + String.valueOf(id) + " "
-                + "uid=" + uid + " "
-                + "name=" + name + " "
-                + "boundClientUid=" + boundClientUid + " "
-                + "demand=" + String.valueOf(demand);
+        return "Product [id=" + id + ", "
+                + "uid=" + uid + ", "
+                + "name=" + name + ", "
+                + "boundClientUid=" + boundClientUid + ", "
+                + "demand=" + demand
+                + "]";
     }
 
 }
