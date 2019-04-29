@@ -7,7 +7,7 @@ import org.kuba.clprsrv.sbt.model.ClientRecord;
  *  DAO.
  *
  */
-public interface RecordController {
+public interface Controllable {
     void input (ClientRecord clientRecord);
     void output (ClientRecord clientRecord);
     void update (ClientRecord clientRecord);

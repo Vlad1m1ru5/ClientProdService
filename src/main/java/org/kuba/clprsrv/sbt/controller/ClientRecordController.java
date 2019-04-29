@@ -3,22 +3,19 @@ package org.kuba.clprsrv.sbt.controller;
 import org.kuba.clprsrv.sbt.model.ClientRecord;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.logging.Logger;
 
 /**
  *  Контроллер ресурсов клента.
  *
  */
-public class ClientRecordController implements RecordController {
+public class ClientRecordController implements Controllable {
     private DriverManagerDataSource driver;
     private Connection connection;
     private String quarry;
     private String url;
     private String userName;
     private String userPass;
-    private Logger backLog;
 
     /*
         constructors
@@ -103,22 +100,32 @@ public class ClientRecordController implements RecordController {
     public void input (ClientRecord clientRecord) {
         // Для отладки
         // Для логгирования
-        System.out.println("-- Client record  input --");
+        System.out.println("-- START Client record  input --");
 
         try {
-            setQuarry("");
+            // TODO
+            //  1. проверить подключение -> бд -> таблица
+            //  2. сформировать поля для отправки
+            //  3. сформировать запрос (quarry)
+            //  4. отправить запрос на добавление записи
+
+
         } catch (Exception anyException) {
-            // @TODO
-            // exception behavior?
+            // TODO
+            //  exception behavior?
         } finally {
             if (connection != null) {
                 try {
                     connection.close();
                 } catch (SQLException ex) {
-                    // @TODO
-                    // SET LOGGER INFO
+                    // TODO
+                    //  SET LOGGER INFO
                 }
             }
+
+            // Для отладки
+            // Для логгирования
+            System.out.println("-- FINISH Client record  input --");
         }
     }
 
