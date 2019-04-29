@@ -2,7 +2,6 @@ package org.kuba.clprsrv.sbt.view;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.FileSystemXmlApplicationContext;
 
 /**
  *  @author Vladimir
