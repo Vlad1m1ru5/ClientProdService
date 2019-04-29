@@ -1,4 +1,4 @@
-package org.kuba.clprsrv.sbt;
+package org.kuba.clprsrv.sbt.model;
 
 /**
  *  Кортеж в таблице клиентов.
@@ -16,11 +16,11 @@ public class ClientRecord extends Record {
     }
 
     public ClientRecord (int id, String uid, String name, String boundProductUid, double balance) {
-        this.setId(id);
-        this.setUid(uid);
-        this.setName(name);
-        this.setBoundProductUid(boundProductUid);
-        this.setBalance(balance);
+        setId(id);
+        setUid(uid);
+        setName(name);
+        setBoundProductUid(boundProductUid);
+        setBalance(balance);
     }
 
     /*

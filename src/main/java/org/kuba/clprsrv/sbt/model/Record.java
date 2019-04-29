@@ -1,4 +1,4 @@
-package org.kuba.clprsrv.sbt;
+package org.kuba.clprsrv.sbt.model;
 
 /**
  *  Абстрактный класс записи кортежа в таблице БД.
